@@ -4,11 +4,11 @@ This is a simple Godot example on how groups work.
 
 ## Description
 
-This Project let you explore how Godot groups works in a simple but interactive way.
+This project let you explore how Godot "groups" feature works in a simple but interactive way.
 
 ## Getting Started
 
-Download this project and open in Godot
+Download this project and open in Godot 4.2+
 
 ### Dependencies
 
